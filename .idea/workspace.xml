@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="" />
+    <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Calificaciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Coleccion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Personas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Usuario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,22 +43,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "JoaquinRodriguez07"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;JoaquinRodriguez07&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/JoaquinRodriguez07/ObligatorioP2V2.git",
-    "accountId": "fa1bdb99-94f9-4129-8e8a-e2145b307254"
+    "accountId": "fc832776-4390-4c17-a35b-ade21a4f7b00"
   }
 }]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2xuMNqAQLjceE5anCULA5C2XZX7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -62,9 +71,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "JoacoBranch",
+    "git-widget-placeholder": "resto__de__clases",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Joaquin/OneDrive/Escritorio/UM/semestre 3/P2/obligatorio/ObligatorioP2V2/grupo12-P2-tads",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -93,6 +106,7 @@
       <workItem from="1748790421671" duration="75000" />
       <workItem from="1748790536069" duration="8000" />
       <workItem from="1748790751846" duration="81000" />
+      <workItem from="1748792130453" duration="853000" />
     </task>
     <servers />
   </component>
