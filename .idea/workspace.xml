@@ -5,10 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Calificaciones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Coleccion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Personas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/clases/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/binarytree/MySearchBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/binarytree/MySearchBinaryTreeImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/binarytree/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/hash/MyHash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/hash/MyHashImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/heap/MyHeap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/heap/MyHeapImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/linkedlist/MyLinkedListImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/linkedlist/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/linkedlist/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/queue/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/stack/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/stack/MyStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,12 +59,12 @@
     &quot;assignee&quot;: &quot;JoaquinRodriguez07&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/JoaquinRodriguez07/ObligatorioP2V2.git",
-    "accountId": "fc832776-4390-4c17-a35b-ade21a4f7b00"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/JoaquinRodriguez07/ObligatorioP2V2.git&quot;,
+    &quot;accountId&quot;: &quot;fc832776-4390-4c17-a35b-ade21a4f7b00&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -71,9 +81,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "resto__de__clases",
+    "git-widget-placeholder": "Tads",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Joaquin/OneDrive/Escritorio/UM/semestre 3/P2/obligatorio/ObligatorioP2V2/grupo12-P2-tads",
+    "last_opened_file_path": "/Users/matiasliceran/Documents/GitHub/ObligatorioP2V2/grupo12-P2-tads/src/main/java/um/edu/uy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -82,6 +92,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -107,6 +122,7 @@
       <workItem from="1748790536069" duration="8000" />
       <workItem from="1748790751846" duration="81000" />
       <workItem from="1748792130453" duration="853000" />
+      <workItem from="1748862840758" duration="473000" />
     </task>
     <servers />
   </component>
