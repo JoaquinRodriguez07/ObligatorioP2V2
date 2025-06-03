@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ObligatorioP2V2.iml" filepath="$PROJECT_DIR$/.idea/ObligatorioP2V2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.iml" filepath="$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.main.iml" filepath="$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.test.iml" filepath="$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.test.iml" />
     </modules>
   </component>
 </project>
