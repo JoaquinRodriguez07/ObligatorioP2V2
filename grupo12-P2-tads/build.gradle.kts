@@ -18,6 +18,12 @@ dependencies {
     annotationProcessor("org.projectlombok:lombok:1.18.38")
     testCompileOnly("org.projectlombok:lombok:1.18.38")
     testAnnotationProcessor("org.projectlombok:lombok:1.18.38")
+
+    //open csv
+    implementation("com.opencsv:opencsv:3.7")
+    testImplementation("com.opencsv:opencsv:3.7")
+    compileOnly("com.opencsv:opencsv:3.7")
+    runtimeOnly("com.opencsv:opencsv:3.7")
 }
 
 tasks.test {
