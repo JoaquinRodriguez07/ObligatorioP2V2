@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/BinaryNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/BinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/ExistingChilds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/MyTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList/Lista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList/ListaEnlazada.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/EmptyQueueException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/MyPriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/MyQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/QueueConPrioridad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/EmptyStackException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/MyStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/Nodo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,22 +65,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "TADs",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Joaquin/OneDrive/Escritorio/UM/semestre 3/P2/obligatorio/ObligatorioP2V2/grupo12-P2-tads",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;TADs&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Joaquin/OneDrive/Escritorio/UM/semestre 3/P2/obligatorio/ObligatorioP2V2/grupo12-P2-tads&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree" />
