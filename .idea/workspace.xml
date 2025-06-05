@@ -5,7 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/grupo12-P2-tads/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/grupo12-P2-tads/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/BinaryNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/BinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/ExistingChilds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/MyTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList/ListaEnlazada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/EmptyQueueException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/MyPriorityQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/MyQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue/QueueConPrioridad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/EmptyStackException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/grupo12-P2-tads.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +92,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "TADs",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Joaquin/OneDrive/Escritorio/UM/semestre 3/P2/obligatorio/ObligatorioP2V2/grupo12-P2-tads",
     "node.js.detected.package.eslint": "true",
@@ -83,6 +103,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree" />
+      <recent name="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Stack" />
+      <recent name="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/Queue" />
+      <recent name="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/LinkedList" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -109,6 +137,7 @@
       <workItem from="1748790751846" duration="81000" />
       <workItem from="1748792130453" duration="853000" />
       <workItem from="1748951544152" duration="91000" />
+      <workItem from="1749123985973" duration="270000" />
     </task>
     <servers />
   </component>
