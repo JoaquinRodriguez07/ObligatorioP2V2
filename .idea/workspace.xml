@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/ArrayList/MiArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/ArrayList/MiLista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/ExistingChilds.java" beforeDir="false" afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/ExistingChilds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/MyTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/grupo12-P2-tads/src/main/java/um/edu/uy/tad/BinaryTree/MyTree.java" afterDir="false" />
-    </list>
+    <list default="true" id="52bb3f56-a5c4-46f5-a104-6d0cdc45092f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,6 +118,7 @@
       <workItem from="1748951544152" duration="91000" />
       <workItem from="1749123985973" duration="270000" />
       <workItem from="1749124294159" duration="945000" />
+      <workItem from="1749125288249" duration="106000" />
     </task>
     <servers />
   </component>
