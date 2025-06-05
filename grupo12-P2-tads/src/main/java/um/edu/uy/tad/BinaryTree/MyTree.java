@@ -1,7 +1,5 @@
 package um.edu.uy.tad.BinaryTree;
-
-import um.edu.uy.p4.tadsAuxiliares.ArrayList.MiArrayList;
-import um.edu.uy.p4.tadsAuxiliares.ArrayList.MiLista;
+import um.edu.uy.tad.ArrayList.MiLista;
 
 public interface MyTree <K,T> {
 

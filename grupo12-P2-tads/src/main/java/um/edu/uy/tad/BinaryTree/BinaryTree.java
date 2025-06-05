@@ -1,9 +1,6 @@
 package um.edu.uy.tad.BinaryTree;
-import um.edu.uy.p4.tadsAuxiliares.ArrayList.*;
-import um.edu.uy.p4.tadsAuxiliares.Queue.*;
-import um.edu.uy.p4.tadsAuxiliares.*;
-import um.edu.uy.p4.tadsAuxiliares.stack.*;
 
+import um.edu.uy.tad.BinaryTree.BinaryNode;
 
 
 public class BinaryTree <K extends Comparable<K>,T> implements MyTree<K,T> {
